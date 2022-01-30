@@ -1,0 +1,6 @@
+DEFAULT,100,1,0.01
+Eli Buckner Ph.D ,100,1,.01
+James Dale ,100,1,.01
+N. Moorthy Muthukrishnan Ph.D. ,100,1,.01
+David Ramsey Ph.D.,180,1.5,.002
+Dr.Moore,200,0.8,.01
