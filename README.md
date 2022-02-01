@@ -1,7 +1,9 @@
 # More Is Less LectureEditor
+/assets/images/Capture.PNG
 ## Current version: 1.0.0 (release) on 1/23/2022
 
-Created by: Maximo Perasso
+Made by: Maximo Perasso
+
 Credit to the following modules and programmers for their code:
 
 https://gist.github.com/vivekhaldar (concencate video code)
@@ -28,5 +30,5 @@ simply do not understand the content.
 Asking a teacher for help is always the best way to
 understand the topic.*
 
-### Download:
+## Download:
 (Windows only for now)
