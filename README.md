@@ -1,7 +1,13 @@
 # More Is Less LectureEditor
 ## Current version: 1.0.0 (release) on 1/23/2022
- 
-made by: Maximo Perasso
+
+Created by: Maximo Perasso
+Credit to the following modules and programmers for their code:
+
+https://gist.github.com/vivekhaldar (concencate video code)
+
+https://zulko.github.io/moviepy/ (video editing module)
+
 
 ### Description
 This software was meant to make the lecture videos from professors a lot easier to learn from if the instructor likes to wait or perhaps talks a bit too slow or too fast.
