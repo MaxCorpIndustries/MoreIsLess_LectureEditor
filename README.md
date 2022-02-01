@@ -9,16 +9,18 @@ This is done by detecting the 'quiet points in the lecture (sections of the vide
 It has been capable of reducing class lectures down from **1 hr 15 minutes** down to **23 minutes** with 0% information loss! 
 
 ### Disclaimer
-DISCLAIMER (for professors):
+
+*For professors:
 No malice is intended, this software is purely
 to enhance the content from the instructor
-for students who prefer different learning styles.
+for students who prefer different learning styles.*
 
-DISCLAIMER (for students):
+
+*For students:
 This software is not magic, it cannot help if you
 simply do not understand the content.
 Asking a teacher for help is always the best way to
-understand the topic.
+understand the topic.*
 
 ### Download:
 (Windows only for now)
